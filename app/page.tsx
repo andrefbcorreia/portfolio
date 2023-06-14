@@ -30,7 +30,7 @@ export default function Page() {
 
       <div className="flex flex-1 flex-col justify-end items-center">
         <div className="flex flex-col items-center pb-24 text-sm md:text-lg lg:text-xl">
-          <p>My new website will launch soon</p>
+          <p>My new website will launch soon.</p>
           <p>Come back and check it out.</p>
         </div>
         <div className="flex gap-10">
